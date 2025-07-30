@@ -6,9 +6,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sheheryaraltaf" alt="sheheryaraltaf" />
-  </a> 
+ 
 </p>
 
 - 🔭 I’m currently building foundational knowledge in **cybersecurity and GRC** through ISO 27001 study.
