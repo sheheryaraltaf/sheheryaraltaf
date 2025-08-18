@@ -1,49 +1,44 @@
 <h1 align="center">Hi 👋, I'm Sheheryar Altaf</h1>
-<h3 align="center">A cybersecurity and GRC enthusiast passionate about building trust through secure systems.</h3>
+<h3 align="center">A cybersecurity enthusiast passionate about protecting systems and building digital trust.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sheheryaraltaf&label=Profile%20views&color=0e75b6&style=flat" alt="sheheryaraltaf" /> 
 </p>
 
-<p align="left"> 
- 
-</p>
+---
 
-- 🔭 I’m currently building foundational knowledge in **cybersecurity and GRC** through ISO 27001 study.
-- 🌱 I’m learning **ISO/IEC 27001, NIST CSF, SOC 2, and IT risk frameworks**.
-- 👯 I’m looking to collaborate on **GRC-focused student community initiatives**.
-- 🤝 I’m looking for help with **GRC use cases, policy templates, and audit checklists**.
-- 👨‍💻 All of my projects are at [github.com/sheheryaraltaf](https://github.com/sheheryaraltaf)
-- 📝 I write at [medium.com/@altafsheheryar](https://medium.com/@altafsheheryar)
-- 💬 Ask me about **GRC basics, ISC2 CC exam, or entry-level cybersecurity**
-- 📫 Reach me at **altafsheheryar@gmail.com**
-- 📄 [Resume](https://docs.google.com/document/d/1E_A5swqJNWkwVd-HpfqEx366gIXMDxjZ/view)
-- ⚡ Fun fact: **Governance without empathy is just bureaucracy.**
+- 🔭 I’m currently building foundational knowledge in **cybersecurity** across technical and non-technical domains.  
+- 🌱 I’m learning **network security, risk management, threat intelligence, and security frameworks**.  
+- 👯 I’m looking to collaborate on **student-led cybersecurity projects and learning communities**.  
+- 🤝 I’m looking for help with **real-world security use cases, labs, and best practices**.  
+- 👨‍💻 All of my projects are at [github.com/sheheryaraltaf](https://github.com/sheheryaraltaf)  
+- 📝 I write at [medium.com/@altafsheheryar](https://medium.com/@altafsheheryar)  
+- 💬 Ask me about **entry-level cybersecurity, ISC2 CC exam, or CompTIA certifications**  
+- 📫 Reach me at **altafsheheryar@gmail.com**  
+- 📄 [Resume](https://docs.google.com/document/d/1E_A5swqJNWkwVd-HpfqEx366gIXMDxjZ/view)  
+- ⚡ Fun fact: **In cybersecurity, curiosity is one of the best defense tools.**  
 
 ---
 
 ### 🏅 Certifications & Courses
 
 - 📜 **ISC2 Certified in Cybersecurity (CC)** – Jul 2025  
-  
-
 - 📜 **CompTIA Security+ (SY0-701)** – Udemy – Jun 2025  
-  Credential ID: UC-4de8fbc8-0da0-4fd6-8eb2-850030e5b8b5
-
+  Credential ID: UC-4de8fbc8-0da0-4fd6-8eb2-850030e5b8b5  
 - 📜 **CompTIA Network+ (N10-008)** – Udemy – Feb 2025  
-  Credential ID: UC-55d2792b-9a1c-42d3-a121-ad0ba857f098
+  Credential ID: UC-55d2792b-9a1c-42d3-a121-ad0ba857f098  
 
 ---
 
 ### 🧠 Skills
 
 - Cybersecurity Fundamentals  
-- Governance, Risk & Compliance (GRC)  
-- Risk Management & IT Audit  
+- Risk Management & IT Security  
 - Cyber Threat Intelligence (CTI)  
+- Security Operations & Monitoring Basics  
 - Networking Concepts (TCP/IP, DNS, DHCP, Subnetting)  
-- Information Security Awareness  
-- ISO/IEC 27001, SOC 2, NIST CSF (In Progress)  
+- Information Security Awareness & Training  
+- ISO/IEC 27001, NIST CSF, SOC 2 (In Progress)  
 
 ---
 
