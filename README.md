@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building foundational knowledge in **cybersecurity and GRC** through ISO 27001 study.  
-- 🌱 I’m learning **ISO/IEC 27001, NIST CSF, SOC 2, and IT risk frameworks**.  
+- 🌱 I’m learning **ISO/IEC 27001, NIST CSF and IT risk frameworks**.  
 - 👯 I’m looking to collaborate on **student cybersecurity community initiatives**.  
 - 🤝 I’m looking for help with **use cases, policy templates, and audit checklists**.  
 - 👨‍💻 All of my projects are at [github.com/sheheryaraltaf](https://github.com/sheheryaraltaf)  
@@ -42,7 +42,7 @@
 - Cyber Threat Intelligence (CTI)  
 - Networking Concepts (TCP/IP, DNS, DHCP, Subnetting)  
 - Information Security Awareness  
-- ISO/IEC 27001, SOC 2, NIST CSF (In Progress)  
+- ISO/IEC 27001, NIST CSF (In Progress)  
 
 ---
 
