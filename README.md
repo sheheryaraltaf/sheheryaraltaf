@@ -19,7 +19,7 @@
 - 📝 I write at [medium.com/@altafsheheryar](https://medium.com/@altafsheheryar)  
 - 💬 Ask me about **entry-level cybersecurity, ISC2 CC exam, or GRC basics**  
 - 📫 Reach me at **altafsheheryar@gmail.com**  
-- 📄 [View Resume](https://docs.google.com/document/d/1E_A5swqJNWkwVd-HpfqEx366gIXMDxjZ/view)  
+- 📄 [View Resume](https://docs.google.com/document/d/1qvoCblYZda1Eheu8eYbvntCnVgRtPxB1/edit?usp=sharing&ouid=106449807108208860040&rtpof=true&sd=true)  
 - ⚡ Fun fact: **Governance without empathy is just bureaucracy.**  
 
 ---
