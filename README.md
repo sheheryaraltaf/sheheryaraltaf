@@ -26,7 +26,9 @@
 - 📜 **CompTIA Security+ (SY0-701)** – Udemy – Jun 2025  
   *Credential ID: UC-4de8fbc8-0da0-4fd6-8eb2-850030e5b8b5*  
 - 📜 **CompTIA Network+ (N10-008)** – Udemy – Feb 2025  
-  *Credential ID: UC-55d2792b-9a1c-42d3-a121-ad0ba857f098*  
+  *Credential ID: UC-55d2792b-9a1c-42d3-a121-ad0ba857f098*
+- 📜 **ISO/IEC 27001 Information Security Associate™** – SkillFront – Oct 2025  
+  *Credential ID: 98875113857329* 
 
 ---
 
