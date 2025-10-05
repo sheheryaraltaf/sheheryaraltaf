@@ -11,26 +11,29 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building foundational knowledge in **cybersecurity and GRC** through ISO 27001 study.  
-- 🌱 I’m learning **ISO/IEC 27001, NIST CSF and IT risk frameworks**.  
-- 👯 I’m looking to collaborate on **student cybersecurity community initiatives**.  
-- 🤝 I’m looking for help with **use cases, policy templates, and audit checklists**.  
-- 👨‍💻 All of my projects are at [github.com/sheheryaraltaf](https://github.com/sheheryaraltaf)  
-- 📝 I write at [medium.com/@altafsheheryar](https://medium.com/@altafsheheryar)  
-- 💬 Ask me about **entry-level cybersecurity, ISC2 CC exam, or GRC basics**  
+- 🔭 Building foundational knowledge in **cybersecurity, GRC, and SOC operations**.  
+- 🌱 Learning **ISO/IEC 27001, NIST CSF, IT risk frameworks, and SOC monitoring basics**.  
+- 👯 Open to collaborate on **cybersecurity projects, student initiatives, and practical security exercises**.  
+- 💬 Ask me about **entry-level cybersecurity, ISC2 CC exam, risk management, or SOC fundamentals**.  
 - 📫 Reach me at **altafsheheryar@gmail.com**  
-- 📄 [View Resume](https://docs.google.com/document/d/1qvoCblYZda1Eheu8eYbvntCnVgRtPxB1/edit?usp=sharing&ouid=106449807108208860040&rtpof=true&sd=true)  
-- ⚡ Fun fact: **Governance without empathy is just bureaucracy.**  
+- ⚡ Fun fact: **Governance without empathy is just bureaucracy.**
 
 ---
 
 ### 🏅 Certifications & Courses
 
-- 📜 **ISC2 Certified in Cybersecurity (CC)** – Jul 2025  
+- 📜 **ISC2 Certified in Cybersecurity (CC) – Exam Passed Jul 2025**  
 - 📜 **CompTIA Security+ (SY0-701)** – Udemy – Jun 2025  
   *Credential ID: UC-4de8fbc8-0da0-4fd6-8eb2-850030e5b8b5*  
 - 📜 **CompTIA Network+ (N10-008)** – Udemy – Feb 2025  
   *Credential ID: UC-55d2792b-9a1c-42d3-a121-ad0ba857f098*  
+
+---
+
+### 💻 Projects
+
+- **ISMS Framework for a Fictional Bank** – Designed and implemented an ISMS, conducted **gap assessments, risk analysis, and recommended treatments** aligned with ISO 27001:2022.  
+- **Cybersecurity Labs** – Hands-on practice with **threat monitoring, vulnerability scanning, and incident analysis**.  
 
 ---
 
@@ -39,6 +42,8 @@
 - Cybersecurity Fundamentals  
 - Governance, Risk & Compliance (GRC)  
 - Risk Management & IT Audit  
+- Security Operations & Monitoring (SIEM basics, logs, alerts)  
+- Incident Response & Threat Analysis  
 - Cyber Threat Intelligence (CTI)  
 - Networking Concepts (TCP/IP, DNS, DHCP, Subnetting)  
 - Information Security Awareness  
