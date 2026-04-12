@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheheryar Altaf</h1>
-<h3 align="center">A cybersecurity enthusiast passionate about building trust through secure systems.</h3>
+<h3 align="center">GRC consultant getting hands-on with identity and access management.</h3>
 
 ---
 
@@ -11,45 +11,42 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building foundational knowledge in **cybersecurity, GRC, and SOC operations**.  
-- 🌱 Learning **ISO/IEC 27001, NIST CSF, IT risk frameworks, and SOC monitoring basics**.  
-- 👯 Open to collaborate on **cybersecurity projects, student initiatives, and practical security exercises**.  
-- 💬 Ask me about **entry-level cybersecurity, ISC2 CC exam, risk management, or SOC fundamentals**.  
-- 📫 Reach me at **altafsheheryar@gmail.com**  
+- 🔭 Currently working as **Associate Consultant GRC at Kinverg**
+- 🌱 Building hands-on labs in **Microsoft Entra ID, Okta, Active Directory, and SailPoint**
+- 🔐 Background in **ISO 27001, NIST CSF 2.0, risk management, and compliance audits**
+- 🧪 Learning IAM because after months of writing security controls I realized most gaps trace back to **who has access to what**
+- 💬 Ask me about **GRC frameworks, access governance, user lifecycle management, or RBAC**
+- 📫 Reach me at **altafsheheryar@gmail.com**
 - ⚡ Fun fact: **Governance without empathy is just bureaucracy.**
 
 ---
 
-### 🏅 Certifications & Courses
+### 🏅 Certifications
 
-- 📜 **ISC2 Certified in Cybersecurity (CC) – Exam Passed Jul 2025**  
-- 📜 **CompTIA Security+ (SY0-701)** – Udemy – Jun 2025  
-  *Credential ID: UC-4de8fbc8-0da0-4fd6-8eb2-850030e5b8b5*  
-- 📜 **CompTIA Network+ (N10-008)** – Udemy – Feb 2025  
-  *Credential ID: UC-55d2792b-9a1c-42d3-a121-ad0ba857f098*
-- 📜 **ISO/IEC 27001 Information Security Associate™** – SkillFront – Oct 2025  
-  *Credential ID: 98875113857329* 
+- 📜 **ISC2 Certified in Cybersecurity (CC)** – Exam Passed Jul 2025
+- 📜 **CompTIA Security+ (SY0-701)** – Jun 2025
+- 📜 **ISO/IEC 27001 Information Security Associate™** – SkillFront – Oct 2025
+- 🎯 **Next:** SC-300 Microsoft Identity and Access Administrator | Okta Certified Professional
 
 ---
 
 ### 💻 Projects
 
-- **ISMS Framework for a Fictional Bank** – Designed and implemented an ISMS, conducted **gap assessments, risk analysis, and recommended treatments** aligned with ISO 27001:2022.  
-- **Cybersecurity Labs** – Hands-on practice with **threat monitoring, vulnerability scanning, and incident analysis**.  
+- **[IndusTech Solutions — Entra ID IAM Lab](https://github.com/sheheryaraltaf/IndusTech-Entra-id-IAM)** — Built a full Entra ID tenant from scratch. 10 users, 8 security groups, RBAC with least privilege, Joiner-Mover-Leaver lifecycle, Administrative Units, B2B guest access, audit log export. Still adding automation and Conditional Access.
+
+- **ISMS Framework for a Fictional Bank** — Designed a complete ISMS with gap assessment, risk analysis, and treatment recommendations aligned to ISO 27001:2022.
 
 ---
 
 ### 🧠 Skills
 
-- Cybersecurity Fundamentals  
-- Governance, Risk & Compliance (GRC)  
-- Risk Management & IT Audit  
-- Security Operations & Monitoring (SIEM basics, logs, alerts)  
-- Incident Response & Threat Analysis  
-- Cyber Threat Intelligence (CTI)  
-- Networking Concepts (TCP/IP, DNS, DHCP, Subnetting)  
-- Information Security Awareness  
-- ISO/IEC 27001, NIST CSF (In Progress)  
+- Identity & Access Management (Entra ID, Okta, Active Directory)
+- Governance, Risk & Compliance (ISO 27001, NIST CSF, SOX ITGC)
+- User Lifecycle Management (JML)
+- RBAC, Access Governance, Segregation of Duties
+- PowerShell and Python (learning for IAM automation)
+- SAML 2.0, OAuth 2.0, OIDC (studying)
+- ServiceNow (ITSM ticketing for IAM operations)
 
 ---
 
@@ -61,9 +58,6 @@
   </a>
   <a href="https://medium.com/@altafsheheryar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/sheheryargrc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
 </p>
 
