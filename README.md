@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheheryar Altaf</h1>
-<h3 align="center">GRC Consultant | Pivoting to OT & ICS Security</h3>
+<h3 align="center">GRC Consultant |  OT & ICS Security</h3>
 
 ---
 
